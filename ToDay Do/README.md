@@ -2,7 +2,7 @@
 
 # ToDay Do - Ultimate Productivity App
 
-## ToDay Do logo : <img src="https://github.com/harshit-kikani/CODSOFT/blob/main/ToDay%20Do/Img/todo.png" width="45" alt="Screenshot 1">
+## ToDay Do logo : <img src="https://github.com/harshit-kikani/CODSOFT/blob/main/Img/todo.png" width="45" alt="Screenshot 1">
 
 📱 Excited to introduce "ToDay Do" - your ultimate companion for staying organized and boosting productivity! 🚀
 
@@ -26,11 +26,11 @@ Based on user feedback, we've implemented some exciting new features to take you
 
 <div align="">
   <img src="img/Main.jpg" width="300" alt="Screenshot 1">
-  <img src="ToDay Do/img/Login.jpg" width="300" alt="Screenshot 2">
-  <img src="ToDay Do/img/Sign-Up.jpg" width="300" alt="Screenshot 3">
-  <img src="ToDay Do/img/Dashboard.jpg" width="300" alt="Screenshot 4">
-  <img src="ToDay Do/img/Task-list.jpg" width="300" alt="Screenshot 5">
-  <img src="ToDay Do/img/Add-Task.jpg" width="300" alt="Screenshot 6">
+  <img src="img/Login.jpg" width="300" alt="Screenshot 2">
+  <img src="img/Sign-Up.jpg" width="300" alt="Screenshot 3">
+  <img src="img/Dashboard.jpg" width="300" alt="Screenshot 4">
+  <img src="img/Task-list.jpg" width="300" alt="Screenshot 5">
+  <img src="img/Add-Task.jpg" width="300" alt="Screenshot 6">
 </div>
 
 ## Download ToDay Do
