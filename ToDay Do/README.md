@@ -25,7 +25,7 @@ Based on user feedback, we've implemented some exciting new features to take you
 ## Screenshots :
 
 <div align="">
-  <img src="ToDay Do/img/Main.jpg" width="300" alt="Screenshot 1">
+  <img src="img/Main.jpg" width="300" alt="Screenshot 1">
   <img src="ToDay Do/img/Login.jpg" width="300" alt="Screenshot 2">
   <img src="ToDay Do/img/Sign-Up.jpg" width="300" alt="Screenshot 3">
   <img src="ToDay Do/img/Dashboard.jpg" width="300" alt="Screenshot 4">
