@@ -97,7 +97,7 @@
             android:layout_marginTop="12dp"
             android:layout_marginBottom="8dp"
             android:text="@string/send_message"
-            android:background="@drawable/button_background2"/>
+            android:background="@drawable/button_background"/>
 
         <View
             android:id="@+id/divider2"
