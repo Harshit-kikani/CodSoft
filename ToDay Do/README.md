@@ -2,7 +2,7 @@
 
 # ToDay Do - Ultimate Productivity App
 
-## ToDay Do logo : <img src="https://github.com/harshit-kikani/CODSOFT/blob/main/ToDay Do/Img/todo.png" width="45" alt="Screenshot 1">
+## ToDay Do logo : <img src="https://github.com/harshit-kikani/CodSoft/blob/main/ToDay Do/img/todo.png" width="45" alt="Screenshot 1">
 
 📱 Excited to introduce "ToDay Do" - your ultimate companion for staying organized and boosting productivity! 🚀
 
