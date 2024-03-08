@@ -18,20 +18,20 @@
 ## New Additions
 
 Based on user feedback, we've implemented some exciting new features to take your productivity to the next level:
+
 - **Help Feature**: Instant access to a comprehensive help section to address any queries or concerns you may have.
 - **Advanced Task Options**: Now you can add subtasks, assign labels, and set reminders for each task, making organization a breeze.
 
 ## Screenshots :
 
 <div align="">
-  <img src="ToDay Do/Img/Main.jpg" width="300" alt="Screenshot 1">
-  <img src="ToDay Do/Img/Login.jpg" width="300" alt="Screenshot 2">
-  <img src="ToDay Do/Img/Sign Up.jpg" width="300" alt="Screenshot 3">
-  <img src="ToDay Do/Img/Dashboard.jpg" width="300" alt="Screenshot 4">
-  <img src="ToDay Do/Img/Task-list.jpg" width="300" alt="Screenshot 5">
-  <img src="ToDay Do/Img/Add-Task.jpg" width="300" alt="Screenshot 6">
+  <img src="ToDay Do/img/Main.jpg" width="300" alt="Screenshot 1">
+  <img src="ToDay Do/img/Login.jpg" width="300" alt="Screenshot 2">
+  <img src="ToDay Do/img/Sign-Up.jpg" width="300" alt="Screenshot 3">
+  <img src="ToDay Do/img/Dashboard.jpg" width="300" alt="Screenshot 4">
+  <img src="ToDay Do/img/Task-list.jpg" width="300" alt="Screenshot 5">
+  <img src="ToDay Do/img/Add-Task.jpg" width="300" alt="Screenshot 6">
 </div>
-
 
 ## Download ToDay Do
 
