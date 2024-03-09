@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/quoteItemBackground"
+            style="@style/elevatedBackground"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.google.android.material.divider.MaterialDivider
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"/>
+
+            <LinearLayout
+                android:id="@+id/quoteLinearLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/transparent"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.5">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/transparent"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:background="@color/transparent"
+                        android:layout_weight="2.5">
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:background="@color/transparent"
+                        android:layout_gravity="center"
+
+                        android:layout_weight="1">
+
+                        <com.google.android.material.floatingactionbutton.FloatingActionButton
+                                style="@style/Button"
+                                android:id="@+id/quote_logo"
+                                android:layout_width="48dp"
+                                android:layout_height="48dp"
+                                android:clickable="false"
+                                android:foreground="@drawable/ic_round_format_quote_24"
+                                android:layout_marginTop="8dp"
+                                android:layout_marginBottom="8dp"
+                                android:layout_gravity="center"
+                                android:layout_weight="0"
+                            />
+
+                        <TextView
+                            android:id="@+id/textAuthor"
+                            style="@style/text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="8dp"
+                            android:layout_marginEnd="8dp"
+                            android:background="@color/transparent"
+                            android:gravity="center|bottom"
+                            android:text="Text"
+                            android:textSize="20sp"
+                            android:textStyle="italic"
+                            android:layout_weight="1"
+                            />
+
+                        <TextView
+                            android:id="@+id/textQuote"
+                            style="@style/text"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="8dp"
+                            android:layout_marginEnd="8dp"
+                            android:layout_marginBottom="80dp"
+                            android:autoSizeMaxTextSize="40sp"
+                            android:autoSizeMinTextSize="1sp"
+                            android:autoSizeTextType="uniform"
+                            android:background="@color/transparent"
+                            android:fontFamily="sans-serif-condensed-medium"
+                            android:gravity="center|top"
+                            android:text="Text"
+                            android:textStyle="bold"
+                            android:layout_weight="100" />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
