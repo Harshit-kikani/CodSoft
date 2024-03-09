@@ -2,7 +2,7 @@
 
 # Alarm Clock
 
-## AlarmClock logo : <img src="img/ic_launcher-playstore.png" width="45" alt="Screenshot 1" style="mix-bland-mode:multiplay;" width="30px">
+## AlarmClock logo : <img src="img/ic_launcher-playstore.png" width="45" alt="Screenshot 1" style="mix-bland-mode:multiplay;" width="20px">
 
 <i>An alarm clock app for Android which allows you to dismiss the ringing alarm by shaking the phone.</i>
 
