@@ -33,7 +33,7 @@ To view what data is stored about you, visit the [myQuotes Account Management We
     <img style="align:center;" src="img/Register1.jpg" alt="img" width="100" />
     <img style="align:center;" src="img/Dashboard1.jpg" alt="img" width="100" />
     <img style="align:center;" src="img/Explore1.jpg" alt="img" width="100" />
-    <img style="align:center;" src="img/CreateNewQuotes.jpg.jpg" alt="img" width="100" />
+    <img style="align:center;" src="img/CreateNewQuotes.jpg" alt="img" width="100" />
     <img style="align:center;" src="img/Collection.jpg" alt="img" width="100" />
     <img style="align:center;" src="img/YourAddedQuotes.jpg" alt="img" width="100" />
     <img style="align:center;" src="img/Setting.jpg" alt="img" width="100" />
