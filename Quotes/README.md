@@ -1,9 +1,6 @@
 <div align="center"><img style="align:center;" src="img/rsz_logo.png" alt="Logo" width="100" /></div>
 <h1 align="center">myQuotes</h1>
 <h3 align="center">Share, Discover and Save New Quotes!</h3>
-<p align="center">
- <a href="https://github.com/lukassobotik/Quotes/blob/master/PrivacyPolicy.md">Privacy Policy</a> | <a href="https://github.com/lukassobotik/Quotes/blob/master/LICENSE">License</a>
-</p>
 
 ## Overview
 
