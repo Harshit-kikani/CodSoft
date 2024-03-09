@@ -2,11 +2,11 @@
 
 # Alarm Clock
 
-## AlarmClock logo : <img src="img/ic_launcher-playstore.png" width="45" alt="Screenshot 1" style="mix-bland-mode:multiplay;" width="20px">
+## AlarmClock logo : <img src="img/ic_launcher-playstore.png" width="45" alt="Screenshot 1" >
 
 <i>An alarm clock app for Android which allows you to dismiss the ringing alarm by shaking the phone.</i>
 
-![GitHub All Resources](https://github.com/Harshit-kikani/CodSoft/AlarmClock)
+![GitHub All Resources](https://github.com/Harshit-kikani/CodSoft/tree/main/AlarmClock)
 
 Tired of pressing the power button/swiping the screen every time an alarm rings? Does your phone's UI have a tendency to freeze, thereby making it impossible to dismiss an alarm? No worries! You have come to the right place. With this app, you can simply shake your phone and dismiss the alarm.
 
